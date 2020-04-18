@@ -2,6 +2,6 @@
 
 预览：
 
-![知识体系](知识体系.svg)
+![知识体系](http://www.lyjiot.cn:8080/download/uploadFile/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB.svg)
 
-将持续更新……
+持续更新……
